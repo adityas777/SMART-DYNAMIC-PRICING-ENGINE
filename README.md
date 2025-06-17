@@ -16,15 +16,3 @@ Your project is live at:
 
 **[https://vercel.com/adi1234123241234-8884s-projects/v0-vercel-ai-project](https://vercel.com/adi1234123241234-8884s-projects/v0-vercel-ai-project)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/y2VzQsrfBfU](https://v0.dev/chat/projects/y2VzQsrfBfU)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
