@@ -1,4 +1,5 @@
 WEBSITE LINK - https://v0-vercel-ai-project-ruby-three.vercel.app/
+YOUTUBE VISEO - https://youtu.be/LHUvUEHrERg?si=mpT66vjKKZPkA6Z5
 
 SMART DYNAMIC PRICING ENGINE
 ---
