@@ -1,5 +1,7 @@
 WEBSITE LINK - https://v0-vercel-ai-project-ruby-three.vercel.app/
+---
 VR STORE- https://v0.dev/chat/fork-of-vercel-ai-project-F8XVgQQB8Jo?b=b_GSQ55wSQorn&f=1#qWdEqz19r0WToTnzo4zCM6zRSEIAdvyO
+---
 YOUTUBE VISEO - https://youtu.be/LHUvUEHrERg?si=mpT66vjKKZPkA6Z5
 
 SMART DYNAMIC PRICING ENGINE
